@@ -1,6 +1,9 @@
 # Forecast_x
 python toolkit for Naive models for time series
 
+
+## Installation
+
 ## Documentation
 Documentation will be available soon!.
 
