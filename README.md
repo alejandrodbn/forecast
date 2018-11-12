@@ -41,3 +41,9 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/alejandrodbn/forecast/wiki
+
+
+
+
+## Code of Conduct
+Everyone interacting with this project's codebases, issue trackers, and mailing lists is expected to follow the Code of Conduct.
