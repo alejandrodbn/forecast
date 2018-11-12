@@ -11,14 +11,6 @@ Forecast_x provides different models for fitting applying a naive approach to ti
 
 ## Installation
 
-Linux:
-
-```sh
-sudo install -U forecast-x
-```
-
-Windows:
-
 ```sh
 pip install -U forecast-x
 ```
