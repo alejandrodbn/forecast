@@ -24,7 +24,7 @@ q = 4
 #number of periods ahed
 h = 12
 
-f = fx.forecas(t, q,h)
+f = fx.forecast(t, q,h)
 model = f.best_model()
 fcst = f.get_forecast(model)
 ```
