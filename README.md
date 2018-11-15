@@ -27,7 +27,7 @@ h = 12
 f = fx.forecast(t, q,h)
 
 #automatically selects the best fit from 13
-different models
+#different models
 model = f.best_model()
 
 #gets the forecast best on model selected
