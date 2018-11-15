@@ -21,11 +21,16 @@ from forecast_x import forecast_x as fx
 time_series = [12, 10,17,41,74,12,74,25,85,42]
 #frequency
 q = 4
-#number of periods ahed
+#number of periods ahead
 h = 12
 
 f = fx.forecast(t, q,h)
+
+#automatically selects the best fit from 13
+different models
 model = f.best_model()
+
+#gets the forecast best on model selected
 fcst = f.get_forecast(model)
 ```
 
