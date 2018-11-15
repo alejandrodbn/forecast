@@ -1,7 +1,7 @@
 # Forecast_x
 > A pure python toolkit with Naive models for time series.
 
-Forecast_x provides different models for fitting applying a naive approach to time series, making easy to forecast several time series.
+Forecast_x provides different models for fitting time series, applying a naive approach, making easy to forecast several time series.
 
 
 
