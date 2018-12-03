@@ -20,9 +20,9 @@ from forecast_x import forecast_x as fx
 #time series
 time_series = [12, 10,17,41,74,12,74,25,85,42]
 #frequency
-q = 4
+q = 4 # Quarters
 #number of periods ahead
-h = 12
+h = 4 # Quarters ahead
 
 f = fx.forecast(t, q,h)
 
@@ -30,7 +30,7 @@ f = fx.forecast(t, q,h)
 #different models
 model = f.best_model()
 
-#gets the forecast best on model selected
+#gets the forecast based on model selected
 fcst = f.get_forecast(model)
 ```
 
