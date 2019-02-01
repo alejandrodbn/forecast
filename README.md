@@ -41,7 +41,7 @@ Forecast_x uses the following models to produce forecast:
 Here is how-to use `Forecast_x` models:
 
 ```python
-from forecast_x import forecsat_x as fx
+from forecast_x import forecast_x as fx
 
 # time series observation
 time_series = [51, 17, 28, 37, 52, 21, 34, 47, 38, 35, 7, 27]
