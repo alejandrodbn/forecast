@@ -3,6 +3,9 @@
 
 [![PyPI version](https://badge.fury.io/py/forecast-x.svg)](https://badge.fury.io/py/forecast-x)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/alejandrodbn/forecast/blob/master/LICENSE)
+[![Downloads](https://pepy.tech/badge/forecast-x)](https://pepy.tech/project/forecast-x)
+[![Downloads](https://pepy.tech/badge/forecast-x/month)](https://pepy.tech/project/forecast-x)
+[![Downloads](https://pepy.tech/badge/forecast-x/week)](https://pepy.tech/project/forecast-x)
 
 __Forecast_x__ is a pure python package that provides different naive models for fitting multiple time series,
 especially in batch process, due to its powerful flexibility and easy usage.
