@@ -88,12 +88,12 @@ forecast = get_forecast(model)
 
 ```sh
 # conda
-conda install pandas
+conda install forecast_x
 ```
 
 ```sh
 # or PyPI
-pip install pandas
+pip install forecast_x
 ```
 
 
