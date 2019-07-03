@@ -87,12 +87,7 @@ forecast = get_forecast(model)
 ## Installation
 
 ```sh
-# conda
-conda install forecast_x
-```
-
-```sh
-# or PyPI
+# PyPI
 pip install forecast_x
 ```
 
@@ -112,14 +107,6 @@ Supported on 3.5, 3.6 and 3.7.
 
 ## Documentation
 The official documentation will be available soon.
-
-
-## Release History
-
-* 0.2: FIX: Bug on error selector, INCLUDE: Partial model documentation through `__doc__` command
-* 0.11.1: FIX: Missing installation file.
-* 0.10: The first proper release
-* 0.1: Work in progress
 
 
 ## Citation
